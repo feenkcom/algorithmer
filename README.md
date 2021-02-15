@@ -8,7 +8,7 @@ Requires [Glamorous Toolkit](https://gtoolkit.com/download/ "Download GToolkit")
 ```smalltalk
 Metacello new
    baseline: 'GToolkitAlgorithmer';
-   repository: 'github://feenkcom/gtoolkit-algorithmer:main/src';
+   repository: 'github://feenkcom/algorithmer:main/src';
    load.
 ```
 
@@ -20,7 +20,7 @@ Here is a classic `fizzbuzz` algorithm visualised in `algorithmer`:
 Algorithms can be exported to various programming languages.
 
 #### Export to Pharo
-![Export to Pharo](https://github.com/feenkcom/gtoolkit-algorithmer/raw/main/screenshots/export-pharo.png)
+![Export to Pharo](https://github.com/feenkcom/algorithmer/raw/main/screenshots/export-pharo.png)
 
 #### Export to Rust
-![Export to Rust](https://github.com/feenkcom/gtoolkit-algorithmer/raw/main/screenshots/export-rust.png)
+![Export to Rust](https://github.com/feenkcom/algorithmer/raw/main/screenshots/export-rust.png)
